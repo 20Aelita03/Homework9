@@ -10,5 +10,6 @@ public class Main {
             book1.setYearPublic(2012);
             System.out.println(book1.getAuthor().getAuthorName());
             System.out.println(book1.getYearPublic());
+            System.out.println(book1);
         }
     }
